@@ -15,7 +15,8 @@ A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Files used
-Files used: bikeshare.py - Python code
+bikeshare.py - Python code
+
 Local database files included on .gitignore:
 chicago.csv
 washington.csv
@@ -23,5 +24,7 @@ new_york_city.csv
 
 ### Credits
 *https://www.w3schools.com/python/python_syntax.asp* - Referenced for the Bikeshare project
+
 *https://git-scm.com/doc* - Very Useful source of information
+
 *https://docs.github.com/en/get-started/writing-on-github* - Helped in formatting this file
