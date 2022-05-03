@@ -1,5 +1,5 @@
 ### Date created
-April 14th, 2022.
+***April 14th, 2022.***
 
 ### Project Title
 **Explore US Bikeshare Data**
@@ -15,12 +15,12 @@ A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Files used
-bikeshare.py - Python code
+**bikeshare.py** - Python code
 
 Local database files included on .gitignore:
-chicago.csv
-washington.csv
-new_york_city.csv
+**chicago.csv**
+**washington.csv**
+**new_york_city.csv**
 
 ### Credits
 *https://www.w3schools.com/python/python_syntax.asp* - Referenced for the Bikeshare project
