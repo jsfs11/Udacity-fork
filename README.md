@@ -10,8 +10,11 @@ In this project, you will make use of Python to explore data related to bike sha
 
 **What Software Do I Need?**
 To complete this project, the following software requirements apply:
+
 You should have Python 3, NumPy, and pandas installed using Anaconda
+
 A text editor, like Sublime or Atom.
+
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Files used
@@ -19,7 +22,9 @@ A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 Local database files included on .gitignore:
 **chicago.csv**
+
 **washington.csv**
+
 **new_york_city.csv**
 
 ### Credits
